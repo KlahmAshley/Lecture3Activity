@@ -556,7 +556,7 @@ GameObject:
   - component: {fileID: 1431145975}
   - component: {fileID: 1431145974}
   m_Layer: 0
-  m_Name: Caramel Cube
+  m_Name: Kitty Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
